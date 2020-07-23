@@ -33,4 +33,4 @@ teenage years. I later moved to Brazil for studying my Bachelor in Computer
 Science.
 
 If you want to know more about my professional career, you can find get my CV
-[here](/assets/files/Benjamin_Mezger_CV.pdf).
+[here](https://seds.nl/assets/files/Benjamin_Mezger_CV.pdf).
