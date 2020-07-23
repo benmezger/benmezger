@@ -1,7 +1,7 @@
 ## Hi, there
 
 My name is Benjamin Mezger and I am one of many software engineers lost in
-a world of code and numbers. In day [job](https://ckl.io), I work on a large Python E-commerce
+a world of code and numbers. In my day [job](https://ckl.io), I work on a large Python E-commerce
 code-base with [Django](https://www.djangoproject.com/) and [Wagtail](https://wagtail.io/) on a team of 7 software engineers.
 
 I&rsquo;m interested in computer security, operating systems, and computer
@@ -22,7 +22,7 @@ German.
 
 Years later after moving around Italy and Germany, we moved to the south of
 Brazil, where I lived for 3 years before my parents got divorced and my mother
-moved to Amsterdam and me, my sister, stepmother, and father moved to [Sark](https://en.wikipedia.org/wiki/Sark), in
+moved to Amsterdam, myself, my sister, stepmother, and father moved to [Sark](https://en.wikipedia.org/wiki/Sark), in
 the Channel Island.
 
 Two years later, we moved to Portugal and then back to England, but this time,
