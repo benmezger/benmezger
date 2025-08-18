@@ -14,5 +14,3 @@ different environments.
 
 Occasionally, I write technical and non-technical notes at [/notes](https://seds.nl/notes). There, I
 share some of my thoughts about the real world as I see.
-
-This blog is fully written in Emacs Org Mode, and I [export](https://github.com/benmezger/dotfiles/blob/main/chezmoi/dot%5Fdoom.d/bin/executable%5Forg2blog) them to [Hugo](https://github.com/benmezger/blog).
