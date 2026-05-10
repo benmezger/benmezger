@@ -15,6 +15,3 @@ different environments.
 Occasionally, I write technical and non-technical notes at
 [/notes](https://seds.nl/notes). There, I share some of my thoughts about the
 real world as I see. 
-
-Most of my professional work happens on GitHub Enterprise (separate account), so
-this profile mainly reflects my personal projects and contributions. 
